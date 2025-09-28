@@ -15,30 +15,30 @@ I'm a **Data Science Professional** and **Full-Stack Blockchain Developer** pass
 ## Tech Stack
 
 ### **Data Science & ML**
--Python
--Jupyter
--Pandas
--NumPy
--Scikit-learn
--TensorFlow
+- Python
+- Jupyter
+- Pandas
+- NumPy
+- Scikit-learn
+- TensorFlow
 
 ### **Blockchain & Web3**
--Solidity
--Ethereum
--Web3.js
+- Solidity
+- Ethereum
+- Web3.js
 
 ### **Full-Stack Development**
--TypeScript
--JavaScript
--Next.js
--React
--Node.js
+- TypeScript
+- JavaScript
+- Next.js
+- React
+- Node.js
 
 ### **Tools & Platforms**
--Git
--Foundry
--Power BI
--AWS
+- Git
+- Foundry
+- Power BI
+- AWS
 
 ## Certifications & Achievements
 
