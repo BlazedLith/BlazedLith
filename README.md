@@ -78,17 +78,20 @@ Modular Solidity smart contracts demonstrating blockchain development progressio
 
 ## GitHub Analytics
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BlazedLith&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-</div>
+# 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=BlazedLith&show_icons=true&theme=tokyonight" />
+</p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlazedLith&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
+# 🔥 GitHub Streak
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=BlazedLith&theme=tokyonight" />
+</p>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BlazedLith&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
+# 💡 Most Used Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlazedLith&layout=compact&theme=tokyonight" />
+</p>
 
 ## 🎯 GSOC 2025 Goals
 
