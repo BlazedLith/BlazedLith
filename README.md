@@ -8,8 +8,7 @@ I'm a **Data Science Professional** and **Full-Stack Blockchain Developer** pass
 
 - **Certified IBM Data Scientist** with expertise in Python, ML, and data visualization
 - **Blockchain Developer** specializing in Solidity smart contracts and Web3 applications
-- **GSOC 2025** candidate targeting Data Science and ML related organizations
-- Currently mastering **Andrew Ng's Machine Learning Specialization** and **CS50 AI**
+- Recently Completed **Andrew Ng's Machine Learning Specialization** and **CS50 AI**
 - Building production-ready decentralized applications with real-world utility
 
 ## Tech Stack
@@ -38,7 +37,6 @@ I'm a **Data Science Professional** and **Full-Stack Blockchain Developer** pass
 - Git
 - Foundry
 - Power BI
-- AWS
 
 ## Certifications & Achievements
 
@@ -48,6 +46,7 @@ I'm a **Data Science Professional** and **Full-Stack Blockchain Developer** pass
 - **University of Michigan Statistics with Python** - *Completed*
 - **Harvard CS50 AI** - *Completed*
 - **Cyfrin Full-Stack Blockchain Course** - *Completed*
+- **Andrew Ng's Machine Learning Specialization** - *Completed*
 
 ##  Featured Projects
 
@@ -101,32 +100,17 @@ Modular Solidity smart contracts demonstrating blockchain development progressio
 ## Current Learning Path
 
 **Immediate Focus (October 2025):**
-- Completing **CS50 AI** (95% done)
-- **Andrew Ng's Machine Learning Specialization** (In Progress)
-- Active **open-source contributions** to target GSOC organizations
+- Active **open-source contributions** to get familiar with more advanced workflows and contribute to the society
 
 **Next Steps:**
 - **CS50 SQL** - Database management for data science
 - **CS50R** - Statistical programming and data analysis
-
-## Open Source Contributions
-
-I'm actively contributing to open-source projects as part of my GSOC 2025 preparation:
-
-- **Focus:** Documentation improvements, bug fixes, feature enhancements
-- **Growing:** From beginner contributions to complex feature development
 
 ##  Let's Connect
 
 - **LinkedIn:** [Connect with me](www.linkedin.com/in/wasiq-amir) 
 - **Email:** wasiqamir3@gmail.com
 - **Discord:** BlazedLith
-
-## Fun Facts
-
-- **GSOC 2025** is my next major milestone in open-source contribution
-- I believe in **learning by building** - every project teaches something new
-- Currently exploring the intersection of **AI and ML**
 
 ---
 
