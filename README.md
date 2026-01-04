@@ -4,7 +4,7 @@
 
 ## About Me
 
-I'm a **Data Science Professional** and **Full-Stack Blockchain Developer** passionate about leveraging cutting-edge technology to solve real-world problems. Currently pursuing **Google Summer of Code 2025** opportunities in **Machine Learning** and **Data Science** domains.
+I'm a **Data Science Professional** and **Full-Stack Blockchain Developer** passionate about leveraging cutting-edge technology to solve real-world problems. Currently pursuing opportunities in **Machine Learning** and **Data Science** domains.
 
 - **Certified IBM Data Scientist** with expertise in Python, ML, and data visualization
 - **Blockchain Developer** specializing in Solidity smart contracts and Web3 applications
